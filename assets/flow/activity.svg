@@ -313,14 +313,14 @@
 <rect x="755.65" y="332" width="13" height="12" rx="3" fill="#1c2838" stroke="none"/>
 <rect x="773.3" y="242" width="13" height="12" rx="3" fill="#1c2838" stroke="none"/>
 <rect x="773.3" y="257" width="13" height="12" rx="3" fill="#1c2838" stroke="none"/>
-<rect x="773.3" y="272" width="13" height="12" rx="3" fill="#1c2838" stroke="none"/>
+<rect x="773.3" y="272" width="13" height="12" rx="3" fill="#24486d" stroke="none"/>
 <rect x="773.3" y="287" width="13" height="12" rx="3" fill="#1c2838" stroke="none"/>
 <rect x="773.3" y="302" width="13" height="12" rx="3" fill="#1c2838" stroke="none"/>
 <rect x="773.3" y="317" width="13" height="12" rx="3" fill="#1c2838" stroke="none"/>
 <rect x="773.3" y="332" width="13" height="12" rx="3" fill="#1c2838" stroke="none"/>
 <rect x="790.9499999999999" y="242" width="13" height="12" rx="3" fill="#1c2838" stroke="none"/>
 <rect x="790.9499999999999" y="257" width="13" height="12" rx="3" fill="#1c2838" stroke="none"/>
-<rect x="790.9499999999999" y="272" width="13" height="12" rx="3" fill="#24486d" stroke="none"/>
+<rect x="790.9499999999999" y="272" width="13" height="12" rx="3" fill="#1c2838" stroke="none"/>
 <rect x="790.9499999999999" y="287" width="13" height="12" rx="3" fill="#1c2838" stroke="none"/>
 <rect x="790.9499999999999" y="302" width="13" height="12" rx="3" fill="#1c2838" stroke="none"/>
 <rect x="790.9499999999999" y="317" width="13" height="12" rx="3" fill="#1c2838" stroke="none"/>
@@ -375,20 +375,14 @@
 <rect x="914.4999999999999" y="317" width="13" height="12" rx="3" fill="#1c2838" stroke="none"/>
 <rect x="914.4999999999999" y="332" width="13" height="12" rx="3" fill="#1c2838" stroke="none"/>
 <rect x="932.15" y="242" width="13" height="12" rx="3" fill="#1c2838" stroke="none"/>
-<rect x="932.15" y="257" width="13" height="12" rx="3" fill="#1c2838" stroke="none"/>
+<rect x="932.15" y="257" width="13" height="12" rx="3" fill="#83baff" stroke="none"/>
 <rect x="932.15" y="272" width="13" height="12" rx="3" fill="#1c2838" stroke="none"/>
 <rect x="932.15" y="287" width="13" height="12" rx="3" fill="#1c2838" stroke="none"/>
 <rect x="932.15" y="302" width="13" height="12" rx="3" fill="#1c2838" stroke="none"/>
 <rect x="932.15" y="317" width="13" height="12" rx="3" fill="#1c2838" stroke="none"/>
 <rect x="932.15" y="332" width="13" height="12" rx="3" fill="#1c2838" stroke="none"/>
 <rect x="949.8" y="242" width="13" height="12" rx="3" fill="#1c2838" stroke="none"/>
-<rect x="949.8" y="257" width="13" height="12" rx="3" fill="#83baff" stroke="none"/>
-<rect x="949.8" y="272" width="13" height="12" rx="3" fill="#1c2838" stroke="none"/>
-<rect x="949.8" y="287" width="13" height="12" rx="3" fill="#1c2838" stroke="none"/>
-<rect x="949.8" y="302" width="13" height="12" rx="3" fill="#1c2838" stroke="none"/>
-<rect x="949.8" y="317" width="13" height="12" rx="3" fill="#1c2838" stroke="none"/>
-<rect x="949.8" y="332" width="13" height="12" rx="3" fill="#1c2838" stroke="none"/>
-<text x="28" y="376" font-family="Arial,sans-serif" font-size="13" font-weight="400" fill="#9aa9bf" text-anchor="start">1 public owned repositories  /  Updated 2026-11-21</text>
+<text x="28" y="376" font-family="Arial,sans-serif" font-size="13" font-weight="400" fill="#9aa9bf" text-anchor="start">1 public owned repositories  /  Updated 2026-11-22</text>
 <text x="846" y="376" font-family="Arial,sans-serif" font-size="12" font-weight="400" fill="#9aa9bf" text-anchor="start">Less</text>
 <rect x="880" y="366" width="11" height="11" rx="2" fill="#1c2838" stroke="none"/>
 <rect x="894" y="366" width="11" height="11" rx="2" fill="#24486d" stroke="none"/>
