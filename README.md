@@ -1,22 +1,65 @@
+<!-- Custom motion-design profile README. All animations are local GIF assets. -->
 <div align="center">
-  <img src="assets/flow/hero.gif" width="100%" alt="Hashith Dissanayaka — Web developer and Software developer" />
+  <img src="assets/hero.gif" alt="Hashith Dissanayaka — IT Student at NIBM, aspiring software engineer; animated rotating wireframe and terminal" width="100%" />
+
+  <p>
+    <a href="https://github.com/Hashith-Dissanayaka?tab=repositories">Explore repositories</a> &nbsp;·&nbsp;
+    <a href="mailto:hashithdissanayaka@gmail.com">Email me</a> &nbsp;·&nbsp;
+    <a href="https://github.com/Hashith-Dissanayaka">GitHub profile</a>
+  </p>
 </div>
 
-I build modern web experiences and practical software solutions, combining clean interfaces, reliable code and thoughtful data design. I value maintainable projects, effective version control and continuous improvement.
+## About me
+
+I'm **Hashith Dissanayaka**, an IT student at the **National Institute of Business Management (NIBM), Sri Lanka**, with an interest in software engineering and full-stack development.
+
+I enjoy turning ideas into practical software, from user interfaces to application logic and databases. I'm developing my skills through coursework, personal projects, and hands-on experimentation, with a focus on readable code, maintainability, and continuous learning.
+
+- **Education:** IT student at NIBM
+- **Interests:** Software engineering, web development, desktop applications, and database systems
+- **Career goal:** Grow into a software engineer who builds reliable, useful applications
+
+## Technical toolkit
 
 <div align="center">
-  <a href="https://github.com/Hashith-Dissanayaka?tab=repositories"><b>Explore projects ↗</b></a> &nbsp;·&nbsp;
-  <a href="https://github.com/Hashith-Dissanayaka"><b>GitHub profile ↗</b></a>
+  <img src="assets/skills.gif" alt="C#, Python, Java, JavaScript, CSS, SQL, C, HTML, React, PHP" width="100%" />
 </div>
 
+| Area | Technologies |
+| :--- | :--- |
+| Programming | C# · Python · Java · C |
+| Web development | HTML · CSS · JavaScript · React · PHP |
+| Databases | SQL · MySQL · SQL Server |
+| Desktop development | C# · .NET · WPF |
+| Development tools | Git · GitHub · Visual Studio · VS Code · IntelliJ IDEA |
+
+## Project portfolio
+
+My work and learning interests include desktop applications, web development, and mobile applications.
+
+<!-- Add verified public project links, screenshots and your specific contribution here when ready. -->
+
+**Coursework focus:** Exploring object-oriented design, database-connected desktop applications, role-based access, and real-world software requirements.
+
+[View my public repositories →](https://github.com/Hashith-Dissanayaka?tab=repositories)
+
+## Engineering mindset
+
 <div align="center">
-  <img src="assets/flow/stack.gif" width="100%" alt="Toolkit: HTML, CSS, JavaScript, React, Java, C#, SQL, Git and GitHub" />
-  <img src="assets/flow/git-flow.gif" width="100%" alt="Illustrated Git workflow: branching, commits, merging, rebasing, pull requests, code review, conflict resolution and GitHub Actions" />
-  <img src="assets/flow/activity.svg" width="100%" alt="GitHub commits, pull requests, reviews, issues and contribution calendar" />
+  <img src="assets/workflow.gif" alt="Conceptual software development workflow: interface, application logic, data, and delivery" width="100%" />
 </div>
 
-<sub>Git activity is fetched from GitHub and reflects contributions visible to the workflow token over the last year. Private activity may be excluded. The animated branch diagram illustrates a workflow, not actual repository history or measured skill percentages.</sub>
+I aim to understand the problem before writing code, structure solutions with clear responsibilities, use version control, and test and improve the result. I'm continuing to strengthen these practices as I learn.
+
+## Connect
+
+I'm interested in learning from other developers, collaborating on meaningful projects, and growing my practical software engineering experience.
+
+**Email:** [hashithdissanayaka@gmail.com](mailto:hashithdissanayaka@gmail.com)  
+**GitHub:** [@Hashith-Dissanayaka](https://github.com/Hashith-Dissanayaka)
+
+---
 
 <div align="center">
-  <sub>DESIGN WITH INTENT · SHIP WITH CONFIDENCE · KEEP LEARNING</sub>
+  <sub>Learn with curiosity. Build with purpose. Improve with consistency.</sub>
 </div>
