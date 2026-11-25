@@ -1,0 +1,37 @@
+name: Update profile activity
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 2 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: profile-activity
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ github.token }}
+          outputs: assets/snake.svg?color_snake=%235bf0e0&color_dots=%23101b2a,%231c465a,%23247589,%233bb0b1,%235bf0e0
+      - name: Generate live GitHub statistics
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          PROFILE_USER: ${{ github.repository_owner }}
+        run: python3 scripts/update_stats.py
+      - name: Commit updated images
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/stats.svg assets/snake.svg
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'Update profile activity [skip ci]'
+          git push origin HEAD
